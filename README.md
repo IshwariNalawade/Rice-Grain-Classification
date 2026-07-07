@@ -145,11 +145,11 @@ Through this project, I gained hands-on experience in:
 
 ## 🔮 Future Improvements
 
-- Experiment with advanced classifiers such as Random Forest, SVM, and XGBoost.
-- Increase dataset size for improved generalization.
-- Develop a CNN-based deep learning model for higher accuracy.
-- Deploy the model as a web application using Flask.
-- Build an interactive interface for real-time rice grain classification.
+- Experiment with advanced machine learning models such as Random Forest, SVM, and XGBoost.
+- Develop a CNN-based deep learning model to improve classification accuracy.
+- Increase the dataset size to enhance model robustness and generalization.
+- Deploy the trained model as a Flask web application for real-time predictions.
+- Build a user-friendly interface for uploading and classifying rice grain images.
 
 ---
 
