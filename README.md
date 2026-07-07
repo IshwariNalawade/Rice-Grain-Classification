@@ -126,7 +126,7 @@ This project uses a publicly available rice grain image dataset.
 Dataset Source:
 **Kaggle Rice Image Dataset**
 
-(Add the dataset link here)
+Link:https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
 
 ---
 
