@@ -88,7 +88,6 @@ Rice-Grain-Classification/
 ├── Rice_Grain_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-└── dataset_link.txt
 ```
 
 ---
